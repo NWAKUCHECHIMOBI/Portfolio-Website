@@ -74,3 +74,18 @@ li {
     border-radius: 10px;
     cursor: pointer;
 }
+
+.skills-list {
+    list-style: none;
+    padding: 0;
+}
+
+.skills-list li {
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+.skills-list i {
+    margin-right: 10px;
+    font-size: 20px;
+}
